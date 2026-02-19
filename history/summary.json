@@ -1,7 +1,7 @@
 [
   {
     "name": "Actual Budged",
-    "url": "https://budget.aspian.my.id/",
+    "url": "https://budget.aspian.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/budget.aspian.my.id.ico",
     "slug": "actual-budged",
     "status": "up",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 1027,
-    "timeWeek": 1027,
-    "timeMonth": 1027,
-    "timeYear": 1027,
+    "time": 1070,
+    "timeDay": 1070,
+    "timeWeek": 1070,
+    "timeMonth": 1070,
+    "timeYear": 1070,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "ChartDB",
+    "url": "https://diagram.aspian.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/diagram.aspian.my.id.ico",
+    "slug": "chart-db",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 863,
+    "timeDay": 863,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
     "dailyMinutesDown": {}
   }
 ]
