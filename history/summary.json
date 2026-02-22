@@ -4,35 +4,39 @@
     "url": "https://budget.aspian.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/budget.aspian.my.id.ico",
     "slug": "actual-budged",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 962,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
-    "dailyMinutesDown": {}
+    "time": 1004,
+    "timeDay": 938,
+    "timeWeek": 1004,
+    "timeMonth": 1004,
+    "timeYear": 1004,
+    "dailyMinutesDown": {
+      "2026-02-22": 0
+    }
   },
   {
     "name": "ChartDB",
     "url": "https://diagram.aspian.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/diagram.aspian.my.id.ico",
     "slug": "chart-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 944,
-    "timeWeek": 944,
-    "timeMonth": 944,
-    "timeYear": 944,
-    "dailyMinutesDown": {}
+    "time": 952,
+    "timeDay": 972,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
+    "dailyMinutesDown": {
+      "2026-02-22": 0
+    }
   }
 ]
